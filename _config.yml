@@ -22,7 +22,7 @@ repository               : "2730938958/2730938958.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "uuu.png"
+  avatar           : "profile.png"
   name             : "Uaena"
   pronouns         : # example: "she/her"  
   bio              : "Bsc SE student / MICCAI Toothfairy reviewer"
