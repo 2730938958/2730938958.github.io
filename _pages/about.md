@@ -17,7 +17,7 @@ Currently a BSc software engineering student. For more details and project exper
 
 ![pse](../images/pse.png)
 
-#### Multi-Modal Semantic Communication with Point Cloud Diffusion.
+#### Multi-Modal Semantic Communication with Point Cloud Diffusion, ICASSP 2025.
 
 #### ![image-20250205014932106](../images/pc_encoder.png)
 
