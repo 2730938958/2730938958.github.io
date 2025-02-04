@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "Homepage"
+site_theme               : "default"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Uaena"
