@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a BSc software engineering student. For more details and project experience, please move to my github repository. 
+I am currently a Msc student of National University of Singapore, Majoring in Artificial Intelligence System.
 
 
 
