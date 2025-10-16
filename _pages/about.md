@@ -21,7 +21,7 @@ I am currently a Master student of National University of Singapore, Majoring in
 
 ### [2] Automated dental CBCT segmentation using Pseudo Labeling method, MICCAI STS Workshop, Springer LNCS.
 
-![pse](../images/pse.png)
+![pse](../images/miccai.png)
 
 
 
