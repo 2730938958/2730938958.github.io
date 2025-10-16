@@ -7,9 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Msc student of National University of Singapore, Majoring in Artificial Intelligence System.
+I am currently a Master student of National University of Singapore, Majoring in Artificial Intelligence System.
 
+## Intern research work
+### Huya Inc.
 
+![pc](../images/huya.png)
 
 ## Recent research
 ### [1] Multi-Modal Semantic Communication with Point Cloud Diffusion, ICASSP 2025.
